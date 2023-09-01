@@ -17,7 +17,7 @@ public class Factorial {
 	}
 	public static void main(String args[]) {
 	
-		
+		System.out.println("This is factorial programming..");
 		System.out.println("Enter the number");
 		Scanner s=new Scanner(System.in);
 		Factorial sss=new Factorial();
