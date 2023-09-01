@@ -4,7 +4,7 @@ public class Demo {
 
 public static void main(String args[]) {
 	int a=123;
-	//Demo d=new Demo();
-	System.out.println(d.a);
+	int b=256;
+	System.out.println(a+b+"the addition of two nubers"+a+b);
 }
 }
